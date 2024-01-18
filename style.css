@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: rgb(124, 9, 124);
+  text-align: center;
+  color: chocolate;
+}
+
+h1 {
+  color: gold;
+}
+h2 {
+  margin: 1rem 0;
+}
+p {
+  text-align: justify;
+  letter-spacing: 1px;
+  word-spacing: 5px;
+  margin: 1rem 0;
+}
+div {
+  background-color: rgb(85, 4, 85);
+  margin: 5% 30%;
+  padding: 2%;
+  border-style: dashed;
+}
+img {
+  border: 15px solid;
+  border-color: white black green blue;
+  border-radius: 50px;
+  margin-top: 50px;
+  width: 85%;
+}
+span {
+  font-size: 50px;
+}
